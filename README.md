@@ -1,7 +1,8 @@
 # TestBrowserUsingSelenium
 This is the sample project along with the helper file to automate/test web sites
 
-TOOLS Used 
+TOOLS Used
+
   Language - C#.Net     
   MicroSoft Visual Studio Express 2013
   Selenium Web Driver
@@ -9,19 +10,23 @@ TOOLS Used
   HtmlAgilityPack
 
 PURPOSE
+
   This is the sample project about how to use the selenium with google chrome and two helper classes to speed up your coding
 
 
 Targetted Users
+
  For beginners who try to use selenium
  For experienced users -
     the class "clsAutomation.cs" & "Helpers.cs"
     
 ClsAutomation.cs
+
 This class consist of several methods which are helpful to speed up the automation. This class consist of settext,gettext, selecttext,
 and working with html tables.
 
 clsHelpers.cs
+
 This class consist of several methods which are helpful in 
   1. Excel to data table conversion
   2. Data table to excel
